@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Yosafe Fesaha Oqbamecail
 
-<!--
-**Yo581515/yo581515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a master's student in Applied Computer Technology with a background in software engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Academic Background
+
+Currently pursuing a Master of Science in Applied Computer Technology at Høgskulen på Vestlandet.  
+Previously completed a Bachelor's in Computer Engineering at the same institution.  
+
+---
+
+## 📫 Contact
+
+- ✉️ yfessaha@gmail.com  
+- 🌍 Bergen, Norway  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yosafe-fesaha-oqbamecail-20222a194/)  
+- 💻 [GitHub](https://github.com/Yo581515)
+
+---
+
+> “Always curious. Always building. Always improving.”
